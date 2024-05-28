@@ -24,10 +24,10 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="mfaisalhidayatullah22" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mfaisalh12" target="_blank">
+  <a href="https://www.hackerrank.com/rekarachmadi99" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="mfaisalh12" height="30" width="40" />
+      alt="rekarachmadi99" height="30" width="40" />
   </a>
   <a href="https://discordapp.com/users/688941069668581376" target="_blank">
     <img align="center"
@@ -160,16 +160,16 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <h3 align="left">My Github Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisalh12&theme=highcontrast"
-    alt="mfaisalh12" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rekarachmadi99&theme=highcontrast"
+    alt="rekarachmadi99" />
 </p>
 <p>&nbsp;
   <img align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mfaisalh12&show_icons=true&theme=highcontrast"
-    alt="mfaisalh12" />
+    src="https://github-readme-stats.vercel.app/api?username=rekarachmadi99&show_icons=true&theme=highcontrast"
+    alt="rekarachmadi99" />
 </p>
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisalh12&show_icons=true&theme=highcontrast"
-    alt="mfaisalh12" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rekarachmadi99&show_icons=true&theme=highcontrast"
+    alt="rekarachmadi99" />
 </p>
