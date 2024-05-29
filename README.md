@@ -1,3 +1,4 @@
+<!-- BLOG-POST-LIST:START -->
 <h1 align="center">Hi 👋, I'm Reka</h1>
 
 <h3 align="center">A young-dumb 🙄 Software Developer from Indonesia</h3>
@@ -164,6 +165,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     alt="rekarachmadi99" />
 </p>
 <p>&nbsp;
+<!-- BLOG-POST-LIST:END -->
   <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=rekarachmadi99&show_icons=true&theme=highcontrast"
     alt="rekarachmadi99" />
