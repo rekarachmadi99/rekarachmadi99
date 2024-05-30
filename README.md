@@ -1,4 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
 <h1 align="center">Hi 👋, I'm Reka</h1>
 
 <h3 align="center">A young-dumb 🙄 Software Developer from Indonesia</h3>
@@ -158,20 +157,3 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
       alt="redis" width="40" height="40" />
   </a> 
 </p>
-
-<h3 align="left">My Github Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rekarachmadi99&theme=highcontrast"
-    alt="rekarachmadi99" />
-</p>
-<p>&nbsp;
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api?username=rekarachmadi99&show_icons=true&theme=highcontrast"
-    alt="rekarachmadi99" />
-</p>
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rekarachmadi99&show_icons=true&theme=highcontrast"
-    alt="rekarachmadi99" />
-</p>
-<!-- BLOG-POST-LIST:END -->
