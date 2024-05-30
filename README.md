@@ -165,7 +165,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     alt="rekarachmadi99" />
 </p>
 <p>&nbsp;
-<!-- BLOG-POST-LIST:END -->
   <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=rekarachmadi99&show_icons=true&theme=highcontrast"
     alt="rekarachmadi99" />
@@ -175,3 +174,4 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rekarachmadi99&show_icons=true&theme=highcontrast"
     alt="rekarachmadi99" />
 </p>
+<!-- BLOG-POST-LIST:END -->
