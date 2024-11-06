@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Developer-Software%20Engineer-blue" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Location-Indonesia-brightgreen" alt="Location Badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-yellow" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/HackerRank-Profile-orange" alt="HackerRank Badge" />
 </p>
 
 - 📫 Reach me at **[reka.rachmadi@gmail.com](mailto:reka.rachmadi@gmail.com)**
